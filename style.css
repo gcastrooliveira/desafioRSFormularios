@@ -73,6 +73,7 @@ header p{
    background: #FFF;
    width: 750px;
    margin: auto;
+   border-radius: 0 0 20px 20px;
 }
 
 #wrapper{
